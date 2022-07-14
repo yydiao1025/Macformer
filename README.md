@@ -28,11 +28,11 @@ The ***preprocessing.sh*** script will generate following input files necessary 
 ```
 
 ### 3. Model training
-Run the training.sh script to start model training.   
+Run the ***training.sh*** script to start model training.   
 The saved checkpoints can be averaged by running the ***average_models.sh*** script.  
 
 ### 4. Model evaluation
-Run the testing_beam_search.sh script to obtain predicted molecules.  
+Run the ***testing_beam_search.sh*** script to obtain predicted molecules.  
 The ***utils/model_evaluation.py*** script can be used to calculate the evaluation metrics, including recovery, validity, uniqueness, novelty, and macrocyclization.  
 
 ### 5. Pre-trained models
