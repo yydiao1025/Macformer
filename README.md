@@ -37,3 +37,4 @@ The ***utils/model_evaluation.py*** script can be used to calculate the evaluati
 
 ### 5. Pre-trained models
 The models pretrained with ChEMBL dataset can be found in the ***models/*** folder.  
+The metrics can be reproduced by the pre-trained models using internal ChEMBL test dataset (***data/ChEMBL/a10/src-testa10***) and external ZINC test dataset (***data/ZINC/src-external-zinc-a10***).
