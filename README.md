@@ -35,6 +35,6 @@ The saved checkpoints can be averaged by running the ***average_models.sh*** scr
 Run the ***testing_beam_search.sh*** script to obtain predicted molecules.  
 The ***utils/model_evaluation.py*** script can be used to calculate the evaluation metrics, including recovery, validity, uniqueness, novelty, and macrocyclization.  
 
-### 5. Pre-trained models
+### 5. Pre-trained models and results reproduction
 The models pretrained with ChEMBL dataset can be found in the ***models/*** folder.  
 The metrics can be reproduced by the pre-trained models using internal ChEMBL test dataset (***data/ChEMBL/a10/src-testa10***) and external ZINC test dataset (***data/ZINC/src-external-zinc-a10***).
