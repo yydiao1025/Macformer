@@ -10,7 +10,7 @@ conda activate Macformer
 
 ## Quick Start
 ### 1. Data processing
-The acyclic-macrocyclic SMILES pairs extracted from ChEMBL and ZINC database, respectively, can be found in the data/ folder. Or researcher can process their own macrocyclic compounds from scratch using scripts in the ***utils/*** folder.  
+The acyclic-macrocyclic SMILES pairs extracted from ChEMBL and ZINC database, respectively, can be found in the ***data/*** folder. Or researcher can process their own macrocyclic compounds from scratch using scripts in the ***utils/*** folder.  
 
 ```
 fragmentation.py:  generate unique acyclic-macrocyclic SMILES pairs  
@@ -39,9 +39,7 @@ The ***utils/model_evaluation.py*** script can be used to calculate the evaluati
 The models pretrained with ChEMBL dataset can be found in the ***models/*** folder.  
 The metrics can be reproduced by the pre-trained models using internal ChEMBL test dataset (***data/ChEMBL/a10/src-testa10***) and external ZINC test dataset (***data/ZINC/src-external-zinc-a10***).
 
-```
-Tabel 1. Comparison of Macformer with different augmentation numbers on ChEMBL test dataset.
-
+###Tabel 1. Comparison of Macformer with different augmentation numbers on ChEMBL test dataset.
 | Training data augmentation   | Recovery(%)   | Validity(%)   | Uniqueness(%)   | Novelty(%)   | Macrocyclization(%)   |
 |------------------------------|---------------|---------------|-----------------|--------------|-----------------------|
 | None                         | 54.85±14.28   | 66.74±2.29    | 63.18±6.38      | 89.30±1.94   | 95.00±0.74            |
@@ -49,4 +47,3 @@ Tabel 1. Comparison of Macformer with different augmentation numbers on ChEMBL t
 | ×5                           | 97.54±0.16    | 81.94±1.42    | 65.36±0.13      | 91.79±0.16   | 98.80±0.11            |
 | ×10                          | 97.02±0.05    | 82.59±1.57    | 64.44±0.46      | 91.76±0.22   | 98.46±0.04            |
 
-```
