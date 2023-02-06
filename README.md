@@ -35,6 +35,8 @@ The saved checkpoints can be averaged by running the ***average_models.sh*** scr
 Run the ***testing_beam_search.sh*** script to obtain predicted molecules.  
 The ***utils/model_evaluation.py*** script can be used to calculate the evaluation metrics, including recovery, validity, uniqueness, novelty, and macrocyclization.  
 
+To compare our model with previously reported non-deep learning approaches, we proposed a pipeline to construct macrocycles from three-dimensional (3D) structures of linear compounds through linker database searching (termed as MacLS). The detailed script can be found in the MacLS.py of the Utils fold.
+
 ### 5. Pre-trained models and results reproduction
 The models pretrained with ChEMBL dataset can be found in the ***models/*** folder.  
 The metrics can be reproduced by the pre-trained models using internal ChEMBL test dataset (***data/ChEMBL/a10/src-testa10***) and external ZINC test dataset (***data/ZINC/src-external-zinc-a10***).
@@ -46,6 +48,15 @@ Tabel 1. Comparison of Macformer with different augmentation numbers on ChEMBL t
 | ×2                           | 96.09±0.61    | 80.34±1.38    | 64.43±0.23      | 91.58±0.15   | 98.62±0.17            |
 | ×5                           | 97.54±0.16    | 81.94±1.42    | 65.36±0.13      | 91.79±0.16   | 98.80±0.11            |
 | ×10                          | 97.02±0.05    | 82.59±1.57    | 64.44±0.46      | 91.76±0.22   | 98.46±0.04            |
+|Method   |Training data augmentation   | Recovery(%)   | Validity(%)   | Uniqueness(%) | Novelty(mol,%) |Novelty(linker,%)|Macrocyclization(%)|        
+|---------|-----------------------------|---------------|---------------|---------------|----------------|-----------------|-------------------|        
+|Macformer|None                         | 54.85±14.28   | 66.74±2.29    | 63.18±6.38    | 89.30±1.94     | 40.56±2.33      | 95.00±0.74        |  
+|Macformer|×2                           | 96.09±0.61    | 80.34±1.38    | 64.43±0.23    | 91.58±0.15     | 58.91±0.36      | 98.62±0.17        | 
+|Macformer|×5                           | 97.54±0.16    | 81.94±1.42    | 65.36±0.13    | 91.79±0.16     | 62.11±0.65      | 98.80±0.11        | 
+|Macformer|×10                          | 97.02±0.05    | 82.59±1.57    | 64.44±0.46    | 91.76±0.22     | 60.27±0.96      | 98.46±0.04        | 
+|MacLS    |×5                           | 0.01±0.01     | 17.05±0.29    | 95.33±0.01    | 100±0.00       | 0.00±0.00       | 100±0.00          | 
+|MacLS    |×10                          | 4.16±0.20     | 89.65±0.03    | 96.32±0.06    | 99.65±0.02     | 0.00±0.00       | 100±0.00          | 
+
 
 Tabel 2. Comparison of Macformer with different augmentation numbers on ZINC test dataset.
 | Training data augmentation   | Recovery(%)   | Validity(%)   | Uniqueness(%)   | Novelty(%)   | Macrocyclization(%)   |
