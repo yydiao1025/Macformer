@@ -42,12 +42,7 @@ The models pretrained with ChEMBL dataset can be found in the ***models/*** fold
 The metrics can be reproduced by the pre-trained models using internal ChEMBL test dataset (***data/ChEMBL/a10/src-testa10***) and external ZINC test dataset (***data/ZINC/src-external-zinc-a10***).
 
 Tabel 1. Comparison of Macformer with different augmentation numbers on ChEMBL test dataset.
-| Training data augmentation   | Recovery(%)   | Validity(%)   | Uniqueness(%)   | Novelty(%)   | Macrocyclization(%)   |
-|------------------------------|---------------|---------------|-----------------|--------------|-----------------------|
-| None                         | 54.85±14.28   | 66.74±2.29    | 63.18±6.38      | 89.30±1.94   | 95.00±0.74            |
-| ×2                           | 96.09±0.61    | 80.34±1.38    | 64.43±0.23      | 91.58±0.15   | 98.62±0.17            |
-| ×5                           | 97.54±0.16    | 81.94±1.42    | 65.36±0.13      | 91.79±0.16   | 98.80±0.11            |
-| ×10                          | 97.02±0.05    | 82.59±1.57    | 64.44±0.46      | 91.76±0.22   | 98.46±0.04            |
+
 |Method   |Training data augmentation   | Recovery(%)   | Validity(%)   | Uniqueness(%) | Novelty(mol,%) |Novelty(linker,%)|Macrocyclization(%)|        
 |---------|-----------------------------|---------------|---------------|---------------|----------------|-----------------|-------------------|        
 |Macformer|None                         | 54.85±14.28   | 66.74±2.29    | 63.18±6.38    | 89.30±1.94     | 40.56±2.33      | 95.00±0.74        |  
