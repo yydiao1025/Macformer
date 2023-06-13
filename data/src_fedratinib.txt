@@ -1,0 +1,70 @@
+L_3 * c 1 c c c c ( N c 2 n c ( N c 3 c c c ( O C C N 4 C C C C 4 ) c ( * ) c 3 ) n c c 2 C ) c 1
+L_3 * c 1 c c c c ( c 1 ) N c 1 n c ( n c c 1 C ) N c 1 c c c ( O C C N 2 C C C C 2 ) c ( * ) c 1
+L_3 N ( c 1 n c ( n c c 1 C ) N c 1 c c c ( c ( c 1 ) * ) O C C N 1 C C C C 1 ) c 1 c c ( c c c 1 ) *
+L_3 N 1 ( C C C C 1 ) C C O c 1 c ( c c ( N c 2 n c ( c ( c n 2 ) C ) N c 2 c c c c ( c 2 ) * ) c c 1 ) *
+L_3 C 1 C N ( C C O c 2 c c c ( c c 2 * ) N c 2 n c ( N c 3 c c c c ( c 3 ) * ) c ( C ) c n 2 ) C C 1
+L_3 c 1 ( c c ( c c c 1 ) * ) N c 1 n c ( n c c 1 C ) N c 1 c c c ( O C C N 2 C C C C 2 ) c ( c 1 ) *
+L_3 c 1 c c c ( N c 2 c ( C ) c n c ( N c 3 c c ( c ( c c 3 ) O C C N 3 C C C C 3 ) * ) n 2 ) c c 1 *
+L_3 C 1 N ( C C C 1 ) C C O c 1 c ( * ) c c ( c c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c ( * ) c c c 1
+L_3 C 1 C N ( C C O c 2 c c c ( N c 3 n c ( N c 4 c c ( c c c 4 ) * ) c ( c n 3 ) C ) c c 2 * ) C C 1
+L_3 c 1 ( c c ( c c c 1 O C C N 1 C C C C 1 ) N c 1 n c c ( C ) c ( N c 2 c c c c ( c 2 ) * ) n 1 ) *
+L_4 N 1 ( C C C C 1 ) C C O c 1 c ( c c ( c c 1 ) N c 1 n c c ( C ) c ( n 1 ) N c 1 c c c c ( c 1 ) * ) *
+L_4 C ( O c 1 c ( c c ( N c 2 n c c ( C ) c ( n 2 ) N c 2 c c c c ( c 2 ) * ) c c 1 ) * ) C N 1 C C C C 1
+L_4 c 1 c c ( N c 2 n c ( N c 3 c c ( c ( c c 3 ) O C C N 3 C C C C 3 ) * ) n c c 2 C ) c c ( * ) c 1
+L_4 c 1 ( O C C N 2 C C C C 2 ) c ( * ) c c ( N c 2 n c ( c ( c n 2 ) C ) N c 2 c c ( c c c 2 ) * ) c c 1
+L_4 c 1 c ( c c ( c ( c 1 ) O C C N 1 C C C C 1 ) * ) N c 1 n c ( c ( C ) c n 1 ) N c 1 c c ( c c c 1 ) *
+L_4 * c 1 c c c c ( c 1 ) N c 1 n c ( n c c 1 C ) N c 1 c c ( c ( O C C N 2 C C C C 2 ) c c 1 ) *
+L_4 C ( N 1 C C C C 1 ) C O c 1 c c c ( N c 2 n c c ( C ) c ( N c 3 c c ( c c c 3 ) * ) n 2 ) c c 1 *
+L_4 C 1 N ( C C C 1 ) C C O c 1 c ( c c ( N c 2 n c ( c ( C ) c n 2 ) N c 2 c c c c ( c 2 ) * ) c c 1 ) *
+L_4 * c 1 c c ( c c c 1 O C C N 1 C C C C 1 ) N c 1 n c c ( C ) c ( N c 2 c c ( c c c 2 ) * ) n 1
+L_4 * c 1 c c c c ( c 1 ) N c 1 c ( C ) c n c ( N c 2 c c ( c ( O C C N 3 C C C C 3 ) c c 2 ) * ) n 1
+L_5 c 1 ( O C C N 2 C C C C 2 ) c ( * ) c c ( N c 2 n c ( c ( c n 2 ) C ) N c 2 c c c c ( c 2 ) * ) c c 1
+L_5 c 1 c ( c c ( c c 1 ) N c 1 n c ( n c c 1 C ) N c 1 c c ( * ) c ( c c 1 ) O C C N 1 C C C C 1 ) *
+L_5 C 1 C C N ( C 1 ) C C O c 1 c c c ( N c 2 n c ( c ( c n 2 ) C ) N c 2 c c c c ( c 2 ) * ) c c 1 *
+L_5 C 1 N ( C C O c 2 c ( c c ( N c 3 n c ( c ( c n 3 ) C ) N c 3 c c ( c c c 3 ) * ) c c 2 ) * ) C C C 1
+L_5 C 1 C N ( C C O c 2 c ( * ) c c ( c c 2 ) N c 2 n c ( c ( c n 2 ) C ) N c 2 c c ( c c c 2 ) * ) C C 1
+L_5 N 1 ( C C C C 1 ) C C O c 1 c c c ( c c 1 * ) N c 1 n c ( c ( C ) c n 1 ) N c 1 c c c c ( c 1 ) *
+L_5 C 1 C N ( C C O c 2 c ( * ) c c ( N c 3 n c ( c ( c n 3 ) C ) N c 3 c c c c ( c 3 ) * ) c c 2 ) C C 1
+L_5 C ( O c 1 c ( c c ( c c 1 ) N c 1 n c c ( C ) c ( N c 2 c c ( c c c 2 ) * ) n 1 ) * ) C N 1 C C C C 1
+L_5 c 1 ( C ) c ( n c ( n c 1 ) N c 1 c c ( c ( c c 1 ) O C C N 1 C C C C 1 ) * ) N c 1 c c ( c c c 1 ) *
+L_5 c 1 ( * ) c c ( N c 2 n c ( N c 3 c c ( c ( c c 3 ) O C C N 3 C C C C 3 ) * ) n c c 2 C ) c c c 1
+L_6 c 1 ( c c ( c c c 1 O C C N 1 C C C C 1 ) N c 1 n c ( c ( C ) c n 1 ) N c 1 c c ( c c c 1 ) * ) *
+L_6 c 1 ( C ) c ( n c ( N c 2 c c ( c ( c c 2 ) O C C N 2 C C C C 2 ) * ) n c 1 ) N c 1 c c ( c c c 1 ) *
+L_6 c 1 c ( c c ( c c 1 ) N c 1 c ( C ) c n c ( N c 2 c c c ( c ( c 2 ) * ) O C C N 2 C C C C 2 ) n 1 ) *
+L_6 C 1 C N ( C C 1 ) C C O c 1 c ( c c ( N c 2 n c ( c ( C ) c n 2 ) N c 2 c c ( c c c 2 ) * ) c c 1 ) *
+L_6 C 1 N ( C C O c 2 c ( c c ( c c 2 ) N c 2 n c c ( C ) c ( N c 3 c c c c ( c 3 ) * ) n 2 ) * ) C C C 1
+L_6 N 1 ( C C O c 2 c ( c c ( c c 2 ) N c 2 n c ( c ( c n 2 ) C ) N c 2 c c ( c c c 2 ) * ) * ) C C C C 1
+L_6 C 1 C C C N 1 C C O c 1 c ( c c ( N c 2 n c c ( C ) c ( N c 3 c c ( c c c 3 ) * ) n 2 ) c c 1 ) *
+L_6 N ( c 1 c ( C ) c n c ( n 1 ) N c 1 c c c ( O C C N 2 C C C C 2 ) c ( c 1 ) * ) c 1 c c ( c c c 1 ) *
+L_6 C ( N 1 C C C C 1 ) C O c 1 c c c ( N c 2 n c ( c ( C ) c n 2 ) N c 2 c c c c ( c 2 ) * ) c c 1 *
+L_6 * c 1 c ( c c c ( c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c c c ( c 1 ) * ) O C C N 1 C C C C 1
+L_7 c 1 c ( c c ( * ) c ( c 1 ) O C C N 1 C C C C 1 ) N c 1 n c ( N c 2 c c ( c c c 2 ) * ) c ( C ) c n 1
+L_7 C 1 C N ( C C O c 2 c c c ( N c 3 n c c ( C ) c ( N c 4 c c c c ( c 4 ) * ) n 3 ) c c 2 * ) C C 1
+L_7 C 1 C N ( C C O c 2 c ( * ) c c ( c c 2 ) N c 2 n c ( c ( C ) c n 2 ) N c 2 c c c c ( c 2 ) * ) C C 1
+L_7 n 1 c c ( C ) c ( n c 1 N c 1 c c ( c ( c c 1 ) O C C N 1 C C C C 1 ) * ) N c 1 c c ( c c c 1 ) *
+L_7 C 1 C C C N 1 C C O c 1 c ( c c ( N c 2 n c c ( C ) c ( N c 3 c c c c ( c 3 ) * ) n 2 ) c c 1 ) *
+L_7 N 1 ( C C O c 2 c ( c c ( N c 3 n c c ( C ) c ( n 3 ) N c 3 c c c c ( c 3 ) * ) c c 2 ) * ) C C C C 1
+L_7 C ( C O c 1 c ( c c ( c c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c c c ( c 1 ) * ) * ) N 1 C C C C 1
+L_7 C 1 C C N ( C 1 ) C C O c 1 c ( * ) c c ( c c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c ( c c c 1 ) *
+L_7 C ( C N 1 C C C C 1 ) O c 1 c ( * ) c c ( N c 2 n c ( c ( C ) c n 2 ) N c 2 c c ( c c c 2 ) * ) c c 1
+L_7 c 1 ( c c ( N c 2 n c ( N c 3 c c ( c c c 3 ) * ) c ( c n 2 ) C ) c c c 1 O C C N 1 C C C C 1 ) *
+L_8 * c 1 c c c c ( N c 2 n c ( N c 3 c c c ( O C C N 4 C C C C 4 ) c ( * ) c 3 ) n c c 2 C ) c 1
+L_8 N 1 ( C C O c 2 c c c ( c c 2 * ) N c 2 n c c ( c ( N c 3 c c c c ( c 3 ) * ) n 2 ) C ) C C C C 1
+L_8 c 1 c c ( c c ( N c 2 n c ( n c c 2 C ) N c 2 c c c ( O C C N 3 C C C C 3 ) c ( * ) c 2 ) c 1 ) *
+L_8 c 1 n c ( n c ( N c 2 c c c c ( * ) c 2 ) c 1 C ) N c 1 c c ( c ( c c 1 ) O C C N 1 C C C C 1 ) *
+L_8 * c 1 c c ( N c 2 n c ( n c c 2 C ) N c 2 c c c ( c ( c 2 ) * ) O C C N 2 C C C C 2 ) c c c 1
+L_8 * c 1 c c ( c c c 1 ) N c 1 n c ( n c c 1 C ) N c 1 c c ( c ( c c 1 ) O C C N 1 C C C C 1 ) *
+L_8 N ( c 1 c c ( c ( c c 1 ) O C C N 1 C C C C 1 ) * ) c 1 n c ( c ( C ) c n 1 ) N c 1 c c ( c c c 1 ) *
+L_8 C 1 C C C N 1 C C O c 1 c ( c c ( c c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c c c ( c 1 ) * ) *
+L_8 C 1 N ( C C C 1 ) C C O c 1 c ( c c ( c c 1 ) N c 1 n c ( c ( C ) c n 1 ) N c 1 c c ( c c c 1 ) * ) *
+L_8 C 1 C N ( C C 1 ) C C O c 1 c ( c c ( N c 2 n c ( c ( C ) c n 2 ) N c 2 c c ( c c c 2 ) * ) c c 1 ) *
+L_9 c 1 c c ( c c ( c 1 ) N c 1 n c ( n c c 1 C ) N c 1 c c ( c ( c c 1 ) O C C N 1 C C C C 1 ) * ) *
+L_9 C 1 C C C N 1 C C O c 1 c ( c c ( c c 1 ) N c 1 n c ( c ( C ) c n 1 ) N c 1 c c c c ( c 1 ) * ) *
+L_9 C 1 C C C N 1 C C O c 1 c ( * ) c c ( c c 1 ) N c 1 n c ( c ( C ) c n 1 ) N c 1 c c ( c c c 1 ) *
+L_9 N 1 ( C C C C 1 ) C C O c 1 c ( c c ( c c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c ( c c c 1 ) * ) *
+L_9 c 1 ( c c c c ( c 1 ) N c 1 c ( C ) c n c ( n 1 ) N c 1 c c ( c ( O C C N 2 C C C C 2 ) c c 1 ) * ) *
+L_9 C ( C O c 1 c ( c c ( c c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c c c ( c 1 ) * ) * ) N 1 C C C C 1
+L_9 c 1 c ( O C C N 2 C C C C 2 ) c ( c c ( c 1 ) N c 1 n c ( c ( c n 1 ) C ) N c 1 c c c c ( c 1 ) * ) *
+L_9 C 1 C N ( C C O c 2 c ( c c ( c c 2 ) N c 2 n c c ( C ) c ( n 2 ) N c 2 c c c c ( c 2 ) * ) * ) C C 1
+L_9 C 1 C N ( C C 1 ) C C O c 1 c ( c c ( c c 1 ) N c 1 n c ( c ( C ) c n 1 ) N c 1 c c c c ( c 1 ) * ) *
+L_9 C ( C N 1 C C C C 1 ) O c 1 c ( c c ( c c 1 ) N c 1 n c c ( C ) c ( n 1 ) N c 1 c c ( c c c 1 ) * ) *
